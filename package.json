@@ -15,12 +15,12 @@
   ],
   "homepage": "https://shotwolf.com",
   "bugs": {
-    "url": "https://github.com/shotwolf/node/issues",
+    "url": "https://github.com/shotwolf/shotwolf-node/issues",
     "email": "hello@shotwolf.com"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shotwolf/node.git"
+    "url": "git+https://github.com/shotwolf/shotwolf-node.git"
   },
   "license": "MIT",
   "author": "ShotWolf <hello@shotwolf.com>",
